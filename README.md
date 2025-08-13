@@ -92,5 +92,3 @@
 ---
 
 > 📌 *Note: Dataset and source code are excluded to maintain project originality.*
-
-If you want, I can now also make **a short portfolio entry** for your `DA_Projects` main README linking to this project — just like we did for Zomato and Google Play Store ones — so it looks consistent. That way your main repo page will look neat and professional.
